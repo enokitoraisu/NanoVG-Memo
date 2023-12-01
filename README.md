@@ -30,7 +30,7 @@ public class Loader {
 }
 ```
 
-# なんかぼやける
+# translateでなんかぼやける
 
 floatのxとyを(int)でキャストしちゃいましょう
 
